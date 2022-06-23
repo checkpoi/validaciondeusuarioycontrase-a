@@ -1,13 +1,13 @@
 .container {
-    margin-left: 200px;
+    margin-left: 100px;
     height: 80px;
 }
 
 .container img {
     position: fixed;
-    margin-left: 150px;
-    width: 60px;
-    height: 60px;
+    margin-left: 85px;
+    width: 50px;
+    height: 50px;
     border-radius: 50px;
 }
 
@@ -28,6 +28,6 @@
     background: #dfe6e9;
 }*/
 
-/*.card-footer input {
-    text-align: center;
-}*/
+.card-footer input {
+    width: 200px;
+}
