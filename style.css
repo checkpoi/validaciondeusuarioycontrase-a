@@ -5,7 +5,7 @@
 
 .container img {
     position: fixed;
-    margin-left: 85px;
+    margin-left: 150px;
     width: 50px;
     height: 50px;
     border-radius: 50px;
@@ -29,5 +29,5 @@
 }*/
 
 .card-footer input {
-    width: 200px;
+    width: 100px;
 }
