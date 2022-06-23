@@ -4,9 +4,9 @@
 }
 
 .container img {
-    margin-left: 200px;
-    width: 20px;
-    height: 20px;
+    margin-left: 205px;
+    width: 30px;
+    height: 30px;
     border-radius: 50px;
 }
 
@@ -28,8 +28,8 @@
 }*/
 
 .card-footer input {
-    width: 150px;
+    width: 145px;
     display: inline-block;
     margin-top: -20px;
-    opacity: 4;
+    opacity: 2;
 }
