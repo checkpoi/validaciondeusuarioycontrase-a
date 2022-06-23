@@ -1,14 +1,44 @@
-.container {
-    margin-left: 100px;
-    height: 80px;
+.custom-input-file {
+  background-color: #941B80;
+  color: #fff;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 auto 0;
+  min-height: 15px;
+  overflow: hidden;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  width: 400px;
 }
 
-.container img {
+.custom-input-file .input-file {
+ border: 10000px solid transparent;
+ cursor: pointer;
+ font-size: 10000px;
+ margin: 0;
+ opacity: 0;
+ outline: 0 none;
+ padding: 0;
+ position: absolute;
+ right: -1000px;
+ top: -1000px;
+}
+
+
+
+/*.container {
+    margin-left: 100px;
+    height: 80px;
+}*/
+
+/*.container img {
     margin-left: 205px;
     width: 30px;
     height: 30px;
     border-radius: 50px;
-}
+}*/
 
 /*.card {
     border: 1px solid #333;
@@ -27,9 +57,9 @@
     background: #dfe6e9;
 }*/
 
-.card-footer input {
+/*.card-footer input {
     width: 145px;
     display: inline-block;
     margin-top: -20px;
     opacity: 2;
-}
+}*/
