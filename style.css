@@ -1,16 +1,13 @@
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: #0c2461;
+    margin-left: 200px;
     height: 80px;
 }
 
 .container img {
     position: fixed;
-    flota: right;
-    width: 100px;
-    height: 100px;
+    margin-left: 150px;
+    width: 60px;
+    height: 60px;
     border-radius: 50px;
 }
 
