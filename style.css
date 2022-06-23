@@ -1,7 +1,36 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0c2461;
+    height: 80px;
+}
+
 .container img {
     position: fixed;
     flota: right;
     width: 100px;
     height: 100px;
-    border-radius: 20px;
+    border-radius: 50px;
+}
+
+.card {
+    border: 1px solid #333;
+    width: 100px;
+    height: 10px;
+    position: relative;
+}
+
+.card-footer {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 9px;
+    background: #dfe6e9;
+}
+
+.card-footer input {
+    text-align: center;
 }
