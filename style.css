@@ -10,7 +10,7 @@
   padding: 10px;
   position: relative;
   text-align: center;
-  width: 400px;
+  width: 100px;
 }
 
 .custom-input-file .input-file {
@@ -33,12 +33,12 @@
     height: 80px;
 }*/
 
-/*.container img {
+.container img {
     margin-left: 205px;
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     border-radius: 50px;
-}*/
+}
 
 /*.card {
     border: 1px solid #333;
